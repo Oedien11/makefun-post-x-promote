@@ -10,9 +10,10 @@ deadline: replies + reposts + quotes. Top 50 share $250.
 
 ## The post
 
-Draft text and photo are in `post-draft.md` and `post-photo.png` (in the
-workspace, not the submitted repo — the photo is uploaded to the X post
-itself). The user posts it himself from @Oejange; the agent never posts to X.
+Draft text is in `post-draft.md` (in the workspace, not the submitted repo).
+The photo is a screenshot of https://make.fun/sponsor/new, taken by the
+user on his phone and attached to the X post itself — no photo file lives
+in the repo. The user posts it himself from @Oejange; the agent never posts to X.
 
 Required text in the post (both lines, verbatim):
 
