@@ -1,6 +1,10 @@
 # Promote make.fun's make-your-own-bounty post on X
 
-Entry for `post-x-promote-make-your-own-bounty-01` (make.fun).
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Oedien11/makefun-post-x-promote/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Oedien11/makefun-post-x-promote/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+
+Entry for `post-x-promote-make-your-own-bounty-01` (make.fun). Bounty page: https://make.fun/bounty/post-x-promote-make-your-own-bounty-01
 
 The entry is a single public post on X from @Oejange that quotes make.fun's
 make-your-own-bounty post (https://x.com/makefunai/status/2124915864336236646),
@@ -22,8 +26,7 @@ Required text in the post (both lines, verbatim):
 
 ## Files
 
-- `POST.json` — the posted post's address (`{"url": "https://x.com/<handle>/status/<id>"}`).
-  Placeholder until the post is live; replace before submitting.
+- `POST.json` — the posted post's address: https://x.com/Oejange/status/2125193768936911145.
 - `main.ts` — the entry program (Node 22, stdlib only). It copies
   `POST.json` to the output directory, where the gate reads it. Run it:
   `mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts`
